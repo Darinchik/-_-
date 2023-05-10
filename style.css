@@ -11,7 +11,8 @@
 
 
 .descript{
-    color:darkkhaki;
+    color:rgb(224, 211, 21);
+    font-weight: 70px;
 }
 
 #header{ 
@@ -281,6 +282,275 @@ a:hover{
 .kart_center{
     display: flex;
     justify-content: space-around;
+}
+
+@media  (min-width:400px) and (max-width:600px) {
+    .b1{
+        margin-left:0px;
+        height: 1500px;
+
+    }
+    
+}
+
+@media  (min-width:600px) and (max-width:1000px) {
+    .b1{
+        margin-left:40px;
+        height: 1200px;
+    }
+    
+}
+
+@media  (min-width:1000px) and (max-width:1800px) {
+    .b1{
+        margin-left:100px;
+        height: 1200px;
+    }
+    
+}
+
+
+@media  (min-width:1200px) and (max-width:1600px) {
+    .b1{
+        margin-left:150px;
+        height: 1000px;
+    }
+    
+}
+
+
+
+
+
+@media  (min-width:400px) and (max-width:600px) {
+    .b2{
+        margin-left:0px;
+        height: 1500px;
+
+    }
+    
+}
+
+@media  (min-width:600px) and (max-width:1000px) {
+    .b2{
+        margin-left:40px;
+        height: 1200px;
+    }
+    
+}
+
+@media  (min-width:1000px) and (max-width:1800px) {
+    .b2{
+        margin-left:100px;
+        height: 1200px;
+    }
+    
+}
+
+
+@media  (min-width:1200px) and (max-width:1600px) {
+    .b2{
+        margin-left:150px;
+        height: 1000px;
+    }
+    
+}
+
+@media  (min-width:400px) and (max-width:600px) {
+    .b3{
+        margin-left:0px;
+        height: 1500px;
+
+    }
+    
+}
+
+@media  (min-width:600px) and (max-width:1000px) {
+    .b3{
+        margin-left:40px;
+        height: 1200px;
+    }
+    
+}
+
+@media  (min-width:1000px) and (max-width:1800px) {
+    .b3{
+        margin-left:100px;
+        height: 1200px;
+    }
+    
+}
+
+
+@media  (min-width:1200px) and (max-width:1600px) {
+    .b3{
+        margin-left:150px;
+        height: 1000px;
+    }
+    
+}
+
+@media  (min-width:400px) and (max-width:600px) {
+    .b4{
+        margin-left:0px;
+        height: 1500px;
+
+    }
+    
+}
+
+@media  (min-width:600px) and (max-width:1000px) {
+    .b4{
+        margin-left:40px;
+        height: 1200px;
+    }
+    
+}
+
+@media  (min-width:1000px) and (max-width:1800px) {
+    .b4{
+        margin-left:100px;
+        height: 1200px;
+    }
+    
+}
+
+
+@media  (min-width:1200px) and (max-width:1600px) {
+    .b4{
+        margin-left:150px;
+        height: 1000px;
+    }
+    
+}
+
+@media  (min-width:400px) and (max-width:600px) {
+    .header{
+        margin-left:0px;
+        height: 1500px;
+
+    }
+    
+}
+
+@media  (min-width:600px) and (max-width:1000px) {
+    .header{
+        margin-left:40px;
+        height: 1200px;
+    }
+    
+}
+
+@media  (min-width:1000px) and (max-width:1800px) {
+    .header{
+        margin-left:100px;
+        height: 1200px;
+    }
+    
+}
+
+
+@media  (min-width:1200px) and (max-width:1600px) {
+    .header{
+        margin-left:150px;
+        height: 1000px;
+    }
+    
+}
+
+
+
+
+@media  (min-width:400px) and (max-width:600px) {
+    #nachalo{
+        margin-left:10px;
+        width: 500px;
+        height: 100px;
+        font-size: 14px;
+
+    }
+    
+}
+
+@media  (min-width:600px) and (max-width:1000px) {
+    #nachalo{
+        margin-left:10px;
+        width: 500px;
+        height: 100px;
+        font-size: 16px;
+    }
+    
+}
+
+@media  (min-width:1000px) and (max-width:1800px) {
+    #nachalo{
+        margin-left:90px;
+        width: 800px;
+        height: 100px;
+        font-size: 24px;
+    }
+    
+}
+
+
+@media  (min-width:1200px) and (max-width:1600px) {
+    #nachalo{
+        margin-left:95px;
+        width: 905px;
+        height: 370px;
+        font-size: 26px;
+    }
+    
+}
+
+
+
+
+
+
+
+
+@media  (min-width:400px) and (max-width:600px) {
+    .fot{
+        margin-left:10px;
+        width: 130px;
+        height: 130px;
+
+    }
+    
+}
+
+@media  (min-width:600px) and (max-width:1000px) {
+    .fot{
+        margin-top: 75px;
+        margin-left:35px;
+        width: 180px;
+        height: 150px;
+
+    }
+    
+}
+
+@media  (min-width:1000px) and (max-width:1600px) {
+    .fot{
+      margin-top: 130px;
+        margin-left:100px;
+        width:200px;
+        height: 100px;
+    }
+    
+}
+
+
+
+
+@media  (min-width:1600px) and (max-width:1800px) {
+    .fot{
+        margin-left:140px;
+        width: 300px;
+        height: 280px;
+    }
+    
 }
 
 
